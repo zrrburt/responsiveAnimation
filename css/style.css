@@ -1,0 +1,73 @@
+html, body {
+  font-family:sans-serif;
+  margin:0;
+  color:#888;
+  background:#2B2C2D;
+  text-align:center;
+}
+
+
+.device {
+  width:80%;
+  height:300px;
+  background-color:#111;
+  position:relative;
+  text-align:center;
+  line-height:40px;
+  margin:20px auto;
+  border: 1px solid #555;
+
+}
+
+.box {
+  position:absolute;
+  color:#ccc;
+}
+
+.green{
+  background-color:#6fb936;
+  width:150px;
+  height:150px;
+}
+
+.orange {
+  background-color:#f38630;
+  width:50px;
+  height:50px;
+}
+.blue {
+  background-color:#338;
+  width:100px;
+  height:100px;
+}
+
+
+
+
+#slider {
+  width:400px;
+  margin:10px auto;
+}
+
+#sliderText, #instructions {
+  text-align:center;
+}
+
+#instructions {
+  margin:20px 20px 8px 20px;
+  color:white;
+  font-size:18px;
+}
+
+code {
+  color:#6fb936;
+}
+
+.ui-widget-content {
+  background-color:rgba(255, 255, 255, 0.2);
+}
+
+
+button {
+  padding:10px;
+}
